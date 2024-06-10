@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>PruebaTTC</artifactId>
+	<artifactId>PruebaTCS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Prueba TTC</name>
-	<description>Prueba TTC</description>
+	<name>Prueba TCS</name>
+	<description>Prueba TCS</description>
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud.version>2023.0.2</spring-cloud.version>
